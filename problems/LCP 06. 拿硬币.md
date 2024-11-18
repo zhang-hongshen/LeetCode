@@ -1,15 +1,6 @@
-## Problem
-
-> [LCP 06. 拿硬币](https://leetcode.cn/problems/na-ying-bi/)
-
-## Code
+## [LCP 06. 拿硬币](https://leetcode.cn/problems/na-ying-bi/)
 
 ### First Solution
-
-**Complexity**
-
-- time complexity: $O(n)$
-- space complexity: $O(1)$
 
 **Java**
 
@@ -29,3 +20,8 @@ class Solution {
 }
 
 ```
+
+| time complexity | space complexity |
+| --------------- | ---------------- |
+| $O(n)$          | $O(1)$           |
+
